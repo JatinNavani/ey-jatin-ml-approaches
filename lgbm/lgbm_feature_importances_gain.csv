@@ -1,0 +1,24 @@
+feature,importance_gain,importance_split
+Invoice_Amt_Diff_Ratio,37262.73551102728,8689
+Invoice_Amt_Diff,11960.741962209344,2549
+Invoice_Amt_Bucket_Code,6882.5406788140535,1199
+Invoice_Type_Tax Invoice,5435.874417170882,1164
+Invoice_Type_Debit Note,4619.771738400683,1193
+Invoice_Source_SAP,4447.190719712526,871
+Business_Unit_Delhi HO,4312.111402925104,695
+Invoice_Source_Manual,4012.769300814718,944
+Business_Unit_Pune,3407.795900536701,727
+Invoice_Source_Oracle,3404.2671980001032,1013
+Invoice_Date_Diff_Days,3150.862029625103,854
+Business_Unit_Hyderabad,2948.1784672196954,580
+Business_Unit_Chennai,2675.980209575966,552
+Invoice_Amt_Bucket_High,2450.3217993658036,470
+Business_Unit_Mumbai HO,2447.0258007496595,646
+Exception_Number_E4,2369.880888558924,514
+Exception_Number_E2,2333.51207863912,504
+Invoice_Amt_Bucket_Medium,1963.0663967728615,369
+Invoice_Amt_Bucket_Low,1686.1036846712232,370
+Invoice_Amt_Bucket_Very_High,209.03672944009304,47
+Invoice_Date_Diff_Bucket_Same_Day,95.48679448664188,30
+Exception_Number_E9,72.7735345363617,12
+Invoice_Date_Diff_Bucket_Above_2_Days,24.990391865372658,8
