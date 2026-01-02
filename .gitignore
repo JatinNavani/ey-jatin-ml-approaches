@@ -3,3 +3,4 @@ OSVM/ocsvm_bundle.joblib
 lgbm/invoice_amt_bins.joblib
 lgbm/lgbm_model.joblib
 Logistic/logreg_model.joblib
+xgboost/xgb_model.joblib
